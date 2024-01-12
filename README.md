@@ -1,8 +1,8 @@
 # Hello, I'm Kritika Adhikary - Aspiring Data Analyst 👋
 
 ## About Me
-- Data Analyst in the making
-- Currently enrolled in the AccioJobs Data Analyst Bootcamp
+- Data Scientists in the making
+- Currently enrolled in the AccioJobs Data Analyst, Data Science Bootcamp
 - I'm from Westbengal, currently in my final year (4th year) pursuing B.Sc agriculture from RIMT University, Punjab
 
 ## Data Enthusiast
