@@ -9,7 +9,7 @@
 - Passionate about turning data into insights
 - Keen on solving real-world problems using data
 - Embarking on the AccioJobs Data Analyst Bootcamp
-- Experienced in Python, SQL, Excel
+- Experienced in SQL, Excel
 
 ## Currently Learning
 - Sharpening my skills in data visualization
