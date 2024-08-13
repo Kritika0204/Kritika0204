@@ -3,13 +3,19 @@
 ## About Me
 - Data Scientists in the making
 - Currently enrolled in the AccioJobs Data Analyst, Data Science Bootcamp
-- I'm from Westbengal, currently in my final year (4th year) pursuing B.Sc agriculture from RIMT University, Punjab
+- I completed my graduation in B.Sc Agriculture and Technology from RIMT University, Punjab (2020-2024)
+- I recieved Gold medal for the academic excelence from my University
+
+## Skills:
+Analytical Tools: SQL, Power BI, Excel (Advanced)
+Data Management: Data Warehousing, Data Cleaning, Data Visualization, ETL Processes
+Statistical Techniques: Hypothesis Testing, Regression Analysis, Time Series Analysis, Machine Learning Algorithms, Descriptive statistics, Inferential statistics
+Technical: Python- NumPy, Pandas, Matplotlib, Seaborn
 
 ## Data Enthusiast
 - Passionate about turning data into insights
 - Keen on solving real-world problems using data
 - Embarking on the AccioJobs Data Analyst Bootcamp
-- Experienced in SQL, Excel
 
 ## Currently Learning
 - Sharpening my skills in data visualization
