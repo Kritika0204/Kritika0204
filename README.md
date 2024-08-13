@@ -4,7 +4,7 @@
 - Data Scientists in the making
 - Currently enrolled in the AccioJobs Data Analyst, Data Science Bootcamp
 - I completed my graduation in B.Sc Agriculture and Technology from RIMT University, Punjab (2020-2024)
-- I recieved Gold medal for the academic excelence from my University
+- I recieved Gold medal for the academic excelence from my University with a CGPA of 9.18.
 
 ## Skills:
 Analytical Tools: SQL, Power BI, Excel (Advanced)
