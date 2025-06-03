@@ -1,39 +1,74 @@
-# Hello, I'm Kritika Adhikary - Aspiring Data Analyst 👋
+👋 Hello, I'm Kritika Adhikary – Data Analyst | Data Science Enthusiast
+📌 About Me
+🎓 B.Sc. in Agricultural Sciences and Technology – RIMT University, Punjab (2020–2024)
+🥇 Awarded Gold Medal for academic excellence with a CGPA of 9.18
 
-## About Me
-- Data Scientists in the making
-- Currently enrolled in the AccioJobs Data Analyst, Data Science Bootcamp
-- I completed my graduation in B.Sc Agriculture and Technology from RIMT University, Punjab (2020-2024)
-- I recieved Gold medal for the academic excelence from my University with a CGPA of 9.18.
+💼 Currently working as a Data Analyst in the Founder's Office at Kapture-CX from september 2024
 
-## Skills:
-Analytical Tools: SQL, Power BI, Excel (Advanced)
-Data Management: Data Warehousing, Data Cleaning, Data Visualization, ETL Processes
-Statistical Techniques: Hypothesis Testing, Regression Analysis, Time Series Analysis, Machine Learning Algorithms, Descriptive statistics, Inferential statistics
-Technical: Python- NumPy, Pandas, Matplotlib, Seaborn
+📊 Worked as a Data Analyst Trainee at AccioJob Data Analytics & Data Science Bootcamp from  Jan-2024 to August 2024
 
-## Data Enthusiast
-- Passionate about turning data into insights
-- Keen on solving real-world problems using data
-- Embarking on the AccioJobs Data Analyst Bootcamp
+🔬 ICAR AIEEA (Statistical Sciences) AIR 183
 
-## Currently Learning
-- Sharpening my skills in data visualization
-- Exploring machine learning for data analysis
-  
-## Collaboration
--  Open to collaborating on data-driven projects
--  Interested in connecting with fellow data enthusiasts
--  Contributing to open-source data projects
+✍️ Lead author on “Implementation of AI in Agriculture” published on ResearchGate
 
-## Let's Connect
-- Reach me on [LinkedIn](https://www.linkedin.com/in/kritika-adhikary-667831252/)
-  
+💡 What I Do
+> Skilled in data analysis using Python, SQL, Excel, Power BI, and Zoho Analytics
 
-Excited to dive into the world of data together!
+> Build and optimize automated dashboards, KPI cockpits, and reporting systems
+
+> Conduct statistical analysis and diagnostics to uncover actionable business insights
+
+> Develop and train machine learning models for classification, prediction, and optimization
+
+> Streamline backend workflows and automate billing using Python, MySQL, and Retool
+
+🛠 Skills & Tools
+> Data Analysis & Programming
+Python (NumPy, Pandas, Matplotlib, Seaborn) | SQL | R | Excel | Google Sheets
+
+> BI & Visualization Tools
+Power BI | Tableau | Grafana | Canva
+
+> Machine Learning & Modeling
+Logistic Regression | Decision Trees | Random Forest | Model Evaluation | Scikit-learn
+
+> CRM & Data Platforms
+Salesforce (Apex) | Zoho Analytics
+
+> Statistics
+Descriptive & Inferential Stats | Regression Analysis | Hypothesis Testing | Time Series
+
+📊 Featured Projects
+🔹 Walmart Retail Data Dashboard
+Advanced Excel dashboard analyzing sales and profits; reduced overstock by 10%, boosted sales by 15%.
+
+🔹 Movie Rental Analytics
+Power BI dashboard and Python-based EDA; led to a 12% increase in rentals and 10% business uplift.
+
+🔹 Flow-Based Chatbot
+Python + RegEx chatbot with 90%+ accuracy; handled 100+ input types via rule-based NLP.
+
+🔬 AI in Agriculture – ResearchGate
+Explores the application of artificial intelligence in the agricultural domain.
+
+📚 Currently Learning
+Real-time dashboarding using BI tools
+
+Scaling ML models for production use
+
+Low-code workflow automation with Retool and other tools
+
+🤝 Let's Collaborate
+Open to data analytics, ML modeling, and research projects
+
+Eager to connect with other data professionals
+
+Actively looking to contribute to open-source and community projects
+
+📬 Connect With Me
+📧 Email: adhikarykritika11@gmail.com
+
+🔗 LinkedIn : https://www.linkedin.com/in/kritikaadhikary/
 
 
-<!---
-Kritika0204/Kritika0204 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Driven by data, powered by purpose — let’s solve real problems together.
