@@ -48,6 +48,10 @@ Power BI dashboard and Python-based EDA; led to a 12% increase in rentals and 10
 🔹 Flow-Based Chatbot
 Python + RegEx chatbot with 90%+ accuracy; handled 100+ input types via rule-based NLP.
 
+> Salary Negotiation Practice
+Choose a scenario to practice your negotiation skills
+https://claude.ai/public/artifacts/b710bd90-9aa6-49eb-baf5-23fe36fa9461
+
 🔬 AI in Agriculture – ResearchGate
 Explores the application of artificial intelligence in the agricultural domain.
 
