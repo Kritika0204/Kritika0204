@@ -50,7 +50,7 @@ Python + RegEx chatbot with 90%+ accuracy; handled 100+ input types via rule-bas
 
 > Salary Negotiation Practice
 Choose a scenario to practice your negotiation skills
-https://claude.ai/public/artifacts/b710bd90-9aa6-49eb-baf5-23fe36fa9461
+https://claude.ai/public/artifacts/85488ab7-9617-485e-894d-025692686f5a
 
 🔬 AI in Agriculture – ResearchGate
 Explores the application of artificial intelligence in the agricultural domain.
